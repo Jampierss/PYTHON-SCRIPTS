@@ -2,20 +2,20 @@
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
-¡Bienvenido/a a python-scripts!
+Welcome to python-scripts!
 
-Este repositorio contiene una colección de scripts en Python para realizar diversas tareas y ejemplos de uso. Cada script es una pequeña utilidad o demostración que te puede ayudar a entender conceptos básicos o avanzados de Python y cómo aplicarlos para resolver problemas específicos.
+This repository contains a collection of Python scripts for performing various tasks and usage examples. Each script is a small utility or demonstration that can help you understand basic or advanced Python concepts and how to apply them to solve specific problems.
 
-## ¿Qué encontrarás aquí?
+## What you'll find here
 
-En este repositorio, encontrarás diferentes scripts y ejemplos escritos en Python. Cada script tiene su propia carpeta y un archivo README.md que proporciona una breve descripción de su funcionalidad y cómo usarlo.
+In this repository, you'll find different scripts and examples written in Python. Each script has its own folder and a README.md file that provides a brief description of its functionality and how to use it.
 
-## Contribuciones
+## Contributions
 
-Si deseas contribuir a este repositorio, ¡eres bienvenido/a! Puedes enviar tus propios scripts, mejoras, correcciones de errores o ejemplos adicionales mediante pull requests. Asegúrate de seguir las pautas de contribución establecidas en el archivo CONTRIBUTING.md.
+If you'd like to contribute to this repository, you are welcome to do so! You can submit your own scripts, improvements, bug fixes, or additional examples via pull requests. Be sure to follow the contribution guidelines outlined in the CONTRIBUTING.md file.
 
-## Contacto
+## Contact
 
-Si tienes alguna pregunta o comentario, no dudes en contactarme a través de jimmyflorian2005@gmail.com o abrir un problema (issue) en este repositorio.
+If you have any questions or comments, feel free to contact me at jimmyflorian2005@gmail.com or open an issue in this repository.
 
-¡Espero que encuentres útiles estos scripts y que te sean de ayuda en tus proyectos de Python!
+I hope you find these scripts helpful and that they assist you in your Python projects!
