@@ -5,13 +5,13 @@ This is a Python script that performs web scraping on the Google Finance page to
 ## Usage
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/Jampierss/Python-scripts.git
+   <code>git clone https://github.com/Jampierss/Python-scripts.git</code>
 
 2. Navigate to the script's folder:
-   cd Python-scripts/webscraping
+   <code>cd Python-scripts/webscraping</code>
 
 3. Run the script from the command line:
-   python stocks.py
+   <code>python stocks.py</code>
 
 ## Requirements
 
@@ -19,15 +19,11 @@ This is a Python script that performs web scraping on the Google Finance page to
 - Libraries: requests, BeautifulSoup
 
 You can install the required libraries with the following command:
-  pip install requests beautifulsoup4
+  <code>pip install requests beautifulsoup4</code>
 
 ## Results
 
 The script makes an HTTP request to the Google Finance page that displays the most active stocks. It then parses the HTML content using BeautifulSoup and extracts relevant data such as the company name, stock symbol, share price, and the rate of change in percentage. The data is stored in a dictionary, which is saved in a JSON file named "Markets_shares.json".
-
-## Contributions
-
-If you'd like to contribute to this project, you're welcome to do so! You can submit your improvements, bug fixes, or suggestions via pull requests. Please make sure to follow the contribution guidelines outlined in the CONTRIBUTING.md file.
 
 ## Contact
 
