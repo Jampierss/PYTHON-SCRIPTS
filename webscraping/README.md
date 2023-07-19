@@ -5,10 +5,10 @@ This is a Python script that performs web scraping on the Google Finance page to
 ## Usage
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/Jampierss/Python-scripts/webscraping.git
+   git clone https://github.com/Jampierss/Python-scripts.git
 
 2. Navigate to the script's folder:
-   cd repository_name
+   cd Python-scripts/webscraping
 
 3. Run the script from the command line:
    python script_name.py
