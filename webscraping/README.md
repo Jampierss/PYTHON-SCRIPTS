@@ -11,7 +11,7 @@ This is a Python script that performs web scraping on the Google Finance page to
    cd Python-scripts/webscraping
 
 3. Run the script from the command line:
-   python script_name.py
+   python stocks.py
 
 ## Requirements
 
