@@ -12,7 +12,7 @@ In this repository, you'll find different scripts and examples written in Python
 
 ## Contributions
 
-If you'd like to contribute to this repository, you are welcome to do so! You can submit your own scripts, improvements, bug fixes, or additional examples via pull requests. Be sure to follow the contribution guidelines outlined in the CONTRIBUTING.md file.
+If you'd like to contribute to this repository, you are welcome to do so! You can submit your own scripts, improvements, bug fixes, or additional examples via pull requests.
 
 ## Contact
 
